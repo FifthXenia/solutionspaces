@@ -1,0 +1,7 @@
+* solutionspaces
+Brainstorming solutions
+
+** Space 1: Low Cost, Automated Distibution of Goods
+*** Creation 1: Automated Fullfillment Machine
+**** Deployment Space 1 MVP: Go to Quartsite LTVA, Park a cargo trailer, with starlink, with cameras (so no one steals my shit). Drive 1.5 hours to phoenix, buy wild caught salmon, grass fed beef patties, guacamole, etc. Load it in freezers. Design a fulfillment system.
+- People request what they want, pay with Monero (fuck USD fiat), and then dump it out a shoot (they bring boxes).

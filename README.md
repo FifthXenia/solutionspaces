@@ -1,2 +1,0 @@
-# solutionspaces
-Brainstorming solutions
