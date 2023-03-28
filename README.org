@@ -5,3 +5,4 @@ Brainstorming solutions
 *** Creation 1: Automated Fullfillment Machine
 **** Deployment Space 1 MVP: Go to Quartsite LTVA, Park a cargo trailer, with starlink, with cameras (so no one steals my shit). Drive 1.5 hours to phoenix, buy wild caught salmon, grass fed beef patties, guacamole, etc. Load it in freezers. Design a fulfillment system.
 - People request what they want, pay with Monero (fuck USD fiat), and then dump it out a shoot (they bring boxes).
+- Mount a metric fuck ton of solar (can be a solar awning in all 4 corners, so people can order in the shade). Power all the freezers, starlink, electronics off of solar.
