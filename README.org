@@ -6,3 +6,4 @@ Brainstorming solutions
 **** Deployment Space 1 MVP: Go to Quartsite LTVA, Park a cargo trailer, with starlink, with cameras (so no one steals my shit). Drive 1.5 hours to phoenix, buy wild caught salmon, grass fed beef patties, guacamole, etc. Load it in freezers. Design a fulfillment system.
 - People request what they want, pay with Monero (fuck USD fiat), and then dump it out a shoot (they bring boxes).
 - Mount a metric fuck ton of solar (can be a solar awning in all 4 corners, so people can order in the shade). Power all the freezers, starlink, electronics off of solar.
+- If US Government bans Monero purchases being the only way. Maybe I'll convert it to some sort of tokens (I'm thinking coins, maybe crypto). Sell them offsite a bunch with Monero. But then "arbitragely constrain the supply" so that I only take say $100 fiat in coins per day. But Monero is unlimited.
