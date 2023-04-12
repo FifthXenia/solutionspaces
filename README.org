@@ -9,3 +9,10 @@ Brainstorming solutions
 - If US Government bans Monero purchases being the only way. Maybe I'll convert it to some sort of tokens (I'm thinking coins, maybe crypto). Sell them offsite a bunch with Monero. But then "arbitragely constrain the supply" so that I only take say $100 fiat in coins per day. But Monero is unlimited.
   - Or I can play the incompetence card, by only "selling" USD coin tokens. But then a "3rd party" sells Monero, which my machines accept.
 **** Deployment Space 0.9/1.1 MVP: Slab City
+
+
+* problemspaces
+Brainstorming problems
+** Problem 1: SICP in carp
+- https://github.com/zv/SICP-guile
+- Will help teach people carp.
