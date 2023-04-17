@@ -2,6 +2,7 @@
 Brainstorming solutions
 
 ** Space 1: Low Cost, Automated Distibution of Goods
+- Helps get people out of cities. Spread people out.
 *** Creation 1: Automated Fullfillment Machine
 **** Deployment Space 1 MVP: Go to Quartsite LTVA, Park a cargo trailer, with starlink, with cameras (so no one steals my shit). Drive 1.5 hours to phoenix, buy wild caught salmon, grass fed beef patties, guacamole, etc. Load it in freezers. Design a fulfillment system.
 - People request what they want, pay with Monero (fuck USD fiat), and then dump it out a shoot (they bring boxes).
@@ -10,6 +11,26 @@ Brainstorming solutions
   - Or I can play the incompetence card, by only "selling" USD coin tokens. But then a "3rd party" sells Monero, which my machines accept.
 **** Deployment Space 0.9/1.1 MVP: Slab City
 
+* Vague solutionspaces (these need to be defined more targetedly - narrower scope to make them actionable)
+** Space 2: Automated, distributed, local generation of food
+- People can sustain themselves on plots of land. We don't need to relive the bronze age collapes, when trade routes break down, and massive populations gets routed.
+  - Also, having distributed food sourcing, provides better defense against the sea peoples.
+- Makes people more self-sufficient, less reliant on monopolistic violent & forceful corporations and governments. Less societal transference/collusion, when populus is more self-sufficient.
+- https://opencollective.com/twisted-fields-research-collective
+** Space 3: Open Knowledge/trust - promotion of freedom
+- Open Hardware: Coreboot, RISC V, GNU/Linux, Intel ME / AMD PSP.
+- knowledge: scihub
+- Maybe 3d print stuff.
+- Have open source robots, that create clothing.
+- Open metrics, tracking health of chicken plants.
+- Promotion of the truth: Buddhism/Navy Seals/overcoming/satietc. Not superficial culture, based on appearances
+- Transparent manufacturing.
+- Try to not promote politics, violent tribalism (demonise another group of people). Try not to put the knife to other groups by boxing them out (EX: Germany WW1 Treaty of Versaii -> Hitler WW2), maybe crashing their economy with rigged fiat, trade embargos, etc. God loves everybody, we really need to nurture, culture the world as a whole.
+  - We are monetizing death, and destruction. We shuld try not to do that, and hold each other, and ourselves to a higher standard. Help each other out.
+** Space 4: Reduce animal consumption
+- If we can, with scientific evidence that this is healthy, and sustainability, not have to eat animals, and feed populus, we should try to do that as the default diet.
+- Would need to evaluate the sustainability of this, relative to supply chain attacks/war. Maybe still keep cattle, goats, chickens around, to make sure society remains resilient if people can't get their exotic vegan Tempeh and protein powders they require for nutrition (Soylent Green).
+- Atleast work towards that.
 
 * problemspaces
 Brainstorming problems
